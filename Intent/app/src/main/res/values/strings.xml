@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="name">Dr.A.P.J.Abdul Kalam</string>
+    <string name="age">Born on October 15, 1931</string>
+    <string name="place">Born at Rameswaram, Tamil Nadu</string>
+    <string name="nick">Called as Missile Man</string>
+</resources>
